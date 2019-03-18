@@ -1,0 +1,7 @@
+{
+  "table":"news",
+  "mysql_name":"root",
+  "mysql_password":"",
+  "database_name":"spiders",
+  "xlsx_file":"data.xlsx"
+}
